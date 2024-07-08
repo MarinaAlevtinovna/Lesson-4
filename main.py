@@ -1,7 +1,7 @@
-a = 7 #Создание переменной
-b = 10
+for i in range(8):
+    print('слово')
 
-
+a, b = 9, 8
 if a > b:
     print('a больше, чем b')
 elif b > a:
