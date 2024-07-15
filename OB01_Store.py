@@ -47,6 +47,8 @@ store1.add_item('Коляска', 5000)
 store1.get_price('Кукла Маша')
 store1.remove_item('Коляска')
 store1.update_price('Мяч', 500)
+store1.get_price('Танк')
+store1.update_price('Танк', 500)
 
 store2.add_store('Помидорка', 'улица Путина, 79')
 store2.add_item('Курица', 250)
